@@ -1,3 +1,6 @@
+## UPDATED version
+hello everyone! I managed to find a way to upload a bigger file for everyone!!! now u can add all numbers up to 2000 (not inclusive of 2000) with a single file!
+
 # my_first_calculator
 this is the first calcualtor i made! it took me a while to make but it is much more complicated than my "hello world" program!
 
